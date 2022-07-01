@@ -1,5 +1,4 @@
-# CrazyXFruit
-
+# FruitPomelo
 ## App Introduction
 
     Kiwi, grapefruit, grape, coconut, watermelon, all kinds of fruits, come and experience this relaxing and enjoyable game.
