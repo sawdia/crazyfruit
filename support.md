@@ -10,7 +10,7 @@
 
     I am happy to hear from you.
 
-* email : nguyenquangtungzm@gmail.com
+* email : 985820478@qq.com
 
 ## Preview Of CrazyXFruit Interface
 
